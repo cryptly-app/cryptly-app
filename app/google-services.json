@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872837486606",
+    "project_id": "cryptly-001",
+    "storage_bucket": "cryptly-001.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872837486606:android:3c51673ec800a2f8e8045f",
+        "android_client_info": {
+          "package_name": "com.cryptlysafe.cryptly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqkp0wGf9U5NLJZlFVmkFxZrVYoQRoxzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
